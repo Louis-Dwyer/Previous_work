@@ -1,0 +1,8 @@
+torch
+scikit-learn
+numpy
+sqlite3 # standard library
+
+to install use command 
+
+pip install -r requirements.txt
