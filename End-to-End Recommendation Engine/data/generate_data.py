@@ -13,7 +13,7 @@ conn = sqlite3.connect(DB)
 c = conn.cursor()
 
 # Create tables
-c.executescript(open("schema.sql").read())
+c.executescript(open("End-to-End Recommendation Engine\sql\schema.sql").read())
 
 # Users
 for u in range(NUM_USERS):
