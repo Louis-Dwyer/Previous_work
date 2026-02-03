@@ -1,7 +1,7 @@
 torch
 scikit-learn
 numpy
-sqlite3 # standard library
+#sqlite3 # standard library for python
 
 #to install use command 
 
