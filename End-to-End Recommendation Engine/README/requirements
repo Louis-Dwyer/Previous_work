@@ -6,6 +6,3 @@ sqlite3 # standard library
 to install use command 
 
 pip install -r requirements.txt
-
-does this work or no
-are you sure this works or no
